@@ -129,6 +129,12 @@
 #
 # B. Go through the methods listed and categorize them into five to ten major areas
 #    of responsibility.
+#   - Accessing
+#   - Modifying
+#   - Splitting
+#   - Querying
+#   - Converting
+#   - Comparing
 #
 # C. Many of the methods have aliases (e.g., next and succ, [] and slice). What are
 #    the tradeoffs in having aliases?
